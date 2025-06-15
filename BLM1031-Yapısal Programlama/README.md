@@ -47,7 +47,7 @@ Projenin detaylı video açıklaması ve uygulamalı gösterimi için aşağıda
 
 Projenin orijinal dönem projesi raporuna ve metodların daha detaylı akademik açıklamalarına aşağıdaki PDF dosyasından ulaşabilirsiniz:
 
-[Dönem Projesi Raporu (PDF)](library_management_system_raport.pdf)
+[Dönem Projesi Raporu (PDF)](docs/library_management_system_raport.pdf)
 
 ---
 
