@@ -22,7 +22,7 @@ Bu proje, temel kütüphane operasyonlarını (kitap ekleme, silme, ödünç ver
 * **Ders Projesi:** BLM1031 - Yapısal Programlama (Yıldız Teknik Üniversitesi) 🎓
 * **Durum:** Tamamlandı ✅
 * **Ana Teknoloji:** C Programlama Dili 💻
-* **Detaylı Bilgi:** [BLM1031-Yapısal Programlama/README.md](BLM1031%20-%20Yapısal%20Programlama/README.md)
+* **Detaylı Bilgi:** [BLM1031-Yapısal Programlama/README.md](BLM1031-Yapısal%20Programlama/README.md)
 
 ---
 
