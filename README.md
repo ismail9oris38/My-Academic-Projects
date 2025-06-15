@@ -20,9 +20,9 @@ Bu proje, Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü'nde,
 Bu proje, temel kütüphane operasyonlarını (kitap ekleme, silme, ödünç verme, iade alma, üye yönetimi vb.) otomatikleştirmeyi amaçlayan bir yönetim sistemi uygulamasıdır. Projenin geliştirme aşamasına henüz başlanmıştır ve ilerleyen zamanlarda detayları eklenecektir.
 
 * **Ders Projesi:** BLM1031 - Yapısal Programlama (Yıldız Teknik Üniversitesi) 🎓
-* **Durum:** Geliştirme Aşamasında (Prototip aşamasında) 🚧
+* **Durum:** Tamamlandı ✅
 * **Ana Teknoloji:** C Programlama Dili 💻
-* **Detaylı Bilgi:** [Kütüphane Yönetim Sistemi/README.md](Kütüphane%20Yönetim%20Sistemi/README.md) *(Bu klasör ve README dosyası projenin geliştirilmesiyle eklenecektir.)*
+* **Detaylı Bilgi:** [BLM1031-Yapısal Programlama/README.md](BLM1031%20-%20Yapısal%20Programlama/README.md)
 
 ---
 
@@ -39,8 +39,3 @@ Bu depoda yer alan projelere katkıda bulunmak isterseniz veya herhangi bir geri
 * **E-posta:** ismail.orhan@std.yildiz.edu.tr 📧
 * **Kurum:** Yıldız Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü 🏢
 
----
-
-## ⚖️ Lisans
-
-Bu depodaki projeler, aksi belirtilmedikçe [MIT Lisansı](LICENSE) altında lisanslanmıştır. Her projenin kendi lisans detayları için ilgili klasörlere bakınız. Daha fazla bilgi için lütfen `LICENSE` dosyasına bakınız.
