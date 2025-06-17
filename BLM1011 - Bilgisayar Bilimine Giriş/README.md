@@ -37,8 +37,7 @@ Proje, tamamıyla **C programlama dili** kullanılarak geliştirilmiştir.
 
 ## 🎓 Akademik Bilgiler
 
-* **Ders Projesi:** [Ders Kodu ve Tam Adı Buraya Gelecek] (Yıldız Teknik Üniversitesi) 🎓
-    * *(Örnek: BLM1001 - Programlamaya Giriş)*
+* **Ders Projesi:** BLM1011 Bilgisayar Mühendisliğine Giriş (Yıldız Teknik Üniversitesi) 🎓
 
 ---
 
