@@ -27,10 +27,10 @@ Bu proje, temel kütüphane operasyonlarını (kitap ekleme, silme, ödünç ver
 ### 3. Triversi Oyunu 🎲
 Bu proje, klasik Reversi oyununun üç kişilik (Kırmızı, Sarı, Mavi) versiyonu olan Triversi'nin C programlama dilinde geliştirilmiş bir komut satırı uygulamasıdır. Kullanıcıdan alınan dinamik NxN boyutunda bir oyun tahtası üzerinde stratejik hamlelerle taş çevirme mekaniği sunar.
 
-* **Ders Projesi:** BLM1011 - Bilgisayar Bilimlerine Giriş (Yıldız Teknik Üniversitesi) 🎓
+* **Ders Projesi:** BLM1011 - Bilgisayar Bilimine Giriş (Yıldız Teknik Üniversitesi) 🎓
 * **Durum:** Tamamlandı ✅
 * **Ana Teknoloji:** C Programlama Dili 💻
-* **Detaylı Bilgi:** [Triversi Oyunu/README.md](BLM1011%20-%20Bilgisayar%20Bilimlerine%20Giriş/README.md) 📖
+* **Detaylı Bilgi:** [Triversi Oyunu/README.md](BLM1011%20-%20Bilgisayar%20Bilimine%20Giriş/README.md) 📖
 * **Video Açıklaması:** [Projenin Detaylı Video Anlatımı için Tıklayın](https://drive.google.com/file/d/13vtdwHTJiP3Suw3eUBOXKi_i1mX2I48w/view?usp=drive_link) 🎬
 ---
 
