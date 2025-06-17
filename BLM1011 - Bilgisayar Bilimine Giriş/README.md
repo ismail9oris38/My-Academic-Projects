@@ -54,7 +54,7 @@ Projenin detaylı video açıklaması ve uygulamalı gösterimi için aşağıda
 
 Projenin detaylı raporuna ve teknik açıklamalarına aşağıdaki PDF dosyasından ulaşabilirsiniz:
 
-[Dönem Projesi Raporu (PDF)](docs/triversi_oyunu_raporu.pdf)
+[Dönem Projesi Raporu (PDF)](docs/Triversi_Game_Raport.pdf)
 
 ---
 
