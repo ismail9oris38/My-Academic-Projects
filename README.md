@@ -32,6 +32,15 @@ Bu proje, klasik Reversi oyununun üç kişilik (Kırmızı, Sarı, Mavi) versiy
 * **Ana Teknoloji:** C Programlama Dili 💻
 * **Detaylı Bilgi:** [Triversi Oyunu/README.md](BLM1011%20-%20Bilgisayar%20Bilimine%20Giriş/README.md) 📖
 * **Video Açıklaması:** [Projenin Detaylı Video Anlatımı için Tıklayın](https://drive.google.com/file/d/13vtdwHTJiP3Suw3eUBOXKi_i1mX2I48w/view?usp=drive_link) 🎬
+
+### 4. Isı Kontrollü Fan Devresi 🌡️🌀
+Bu proje, sıcaklığa duyarlı bir fan kontrol sistemi tasarımıdır. Bir NTC termistör aracılığıyla ortam sıcaklığı ölçülmekte ve belirli bir sıcaklığın üzerine çıkıldığında bir NPN transistör vasıtasıyla fan aktif hale getirilmektedir. Devre, temel elektronik komponentler kullanılarak Falstad simülasyon ortamında modellenmiştir ve fiziksel olarak da test edilmiştir. Proje aynı zamanda sensör tabanlı otomasyon sistemlerine giriş niteliğindedir.
+
+* **Ders Projesi:** BLM1033 - Devre Teorisi ve Elektronik Devreler (Yıldız Teknik Üniversitesi) 🎓
+* **Durum:** Tamamlandı ✅
+* **Ana Teknolojiler:** Temel Elektronik Devre, Falstad ve Tinkercad Simülasyonu 🔧
+* **Görsel Şematik:** [BLM1033 - Devre Teorisi ve Elektronik Devreler/README.md](BLM1031%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/images)
+* **Detaylı Bilgi:** [BLM1033 - Devre Teorisi ve Elektronik Devreler/README.md](BLM1031%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/README.md) 📖
 ---
 
 ## 🤝 Nasıl Katkıda Bulunulur?
