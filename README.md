@@ -39,8 +39,8 @@ Bu proje, sıcaklığa duyarlı bir fan kontrol sistemi tasarımıdır. Bir NTC 
 * **Ders Projesi:** BLM1033 - Devre Teorisi ve Elektronik Devreler (Yıldız Teknik Üniversitesi) 🎓
 * **Durum:** Tamamlandı ✅
 * **Ana Teknolojiler:** Temel Elektronik Devre, Falstad ve Tinkercad Simülasyonu 🔧
-* **Görsel Şematik:** [BLM1033 - Devre Teorisi ve Elektronik Devreler/README.md](BLM1031%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/images)
-* **Detaylı Bilgi:** [BLM1033 - Devre Teorisi ve Elektronik Devreler/README.md](BLM1031%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/README.md) 📖
+* **Görsel Şematik:** [BLM1033 - Devre Teorisi ve Elektronik Devreler/images](BLM1033%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/images)
+* **Detaylı Bilgi:** [BLM1033 - Devre Teorisi ve Elektronik Devreler/README.md](BLM1033%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/README.md) 📖
 ---
 
 ## 🤝 Nasıl Katkıda Bulunulur?
