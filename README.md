@@ -33,7 +33,7 @@ Bu proje, klasik Reversi oyununun üç kişilik (Kırmızı, Sarı, Mavi) versiy
 * **Detaylı Bilgi:** [Triversi Oyunu/README.md](BLM1011%20-%20Bilgisayar%20Bilimine%20Giriş/README.md) 📖
 * **Video Açıklaması:** [Projenin Detaylı Video Anlatımı için Tıklayın](https://drive.google.com/file/d/13vtdwHTJiP3Suw3eUBOXKi_i1mX2I48w/view?usp=drive_link) 🎬
 
-### 4. Isı Kontrollü Fan Devresi 🌡️🌀
+### 4. Isı Kontrollü Fan Devresi 
 Bu proje, sıcaklığa duyarlı bir fan kontrol sistemi tasarımıdır. Bir NTC termistör aracılığıyla ortam sıcaklığı ölçülmekte ve belirli bir sıcaklığın üzerine çıkıldığında bir NPN transistör vasıtasıyla fan aktif hale getirilmektedir. Devre, temel elektronik komponentler kullanılarak Falstad simülasyon ortamında modellenmiştir ve fiziksel olarak da test edilmiştir. Proje aynı zamanda sensör tabanlı otomasyon sistemlerine giriş niteliğindedir.
 
 * **Ders Projesi:** BLM1033 - Devre Teorisi ve Elektronik Devreler (Yıldız Teknik Üniversitesi) 🎓
@@ -41,6 +41,15 @@ Bu proje, sıcaklığa duyarlı bir fan kontrol sistemi tasarımıdır. Bir NTC 
 * **Ana Teknolojiler:** Temel Elektronik Devre, Falstad ve Tinkercad Simülasyonu 🔧
 * **Detaylı Bilgi:** [BLM1033 - Devre Teorisi ve Elektronik Devreler/README.md](BLM1033%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/README.md) 📖
 * **Görsel Şematik:** [BLM1033 - Devre Teorisi ve Elektronik Devreler/images](BLM1033%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/images)
+
+### 5. Regresyon Modeli - Optimizasyon
+Soru-cevap çiftlerini anlamsal olarak sınıflandırmak amacıyla geliştirdiğim bu projede; veri üretimi için Turkish Gemma 9B ve vektör temsilleri (embedding) için Turkish E5 Large modellerini entegre ederek regresyon tabanlı bir mimari kurdum. Model eğitim sürecinde GD, SGD, Adam ve AdaGrad optimizasyon algoritmalarını kütüphane kullanmadan sıfırdan kodlayıp; zaman, iterasyon ve başarı kriterlerine göre performans analizlerini gerçekleştirdim. Eğitim sürecindeki ağırlık güncellemelerini T-SNE yöntemiyle 2 boyuta indirgeyerek görselleştirdiğim bu çalışmada; ayrıca eğitim kümesi büyüklüğü, farklı anlamsal temsil modelleri ve hiper-parametrelerin model istikrarı üzerindeki etkilerini deneysel olarak raporladım.
+
+* **Ders Projesi:** BLM2642 - Bilgisayar Mühendisleri için Diferansiyel Denklemler (Yıldız Teknik Üniversitesi) 🎓
+* **Durum:** Tamamlandı ✅
+* **Ana Teknolojiler:** Python Programlama Dili💻
+* **Detaylı Bilgi:** [BLM2642 - Bilgisayar Mühendisleri için Diferansiyel Denklemler/README.md](BLM1033%20-%20Devre%20Teorisi%20ve%20Elektronik%20Devreler/README.md) 📖
+* **Video Açıklaması:** [Projenin Detaylı Video Anlatımı için Tıklayın](https://www.youtube.com/watch?v=s9lxLIq8H8g)
 
 ---
 
