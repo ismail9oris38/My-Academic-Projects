@@ -48,7 +48,7 @@ Soru-cevap çiftlerini anlamsal olarak sınıflandırmak amacıyla geliştirdiğ
 * **Ders Projesi:** BLM2642 - Bilgisayar Mühendisleri için Diferansiyel Denklemler (Yıldız Teknik Üniversitesi) 🎓
 * **Durum:** Tamamlandı ✅
 * **Ana Teknolojiler:** Python Programlama Dili💻
-* **Detaylı Bilgi:** [BLM2642 - Bilgisayar Mühendisleri için Diferansiyel Denklemler/README.md](BLM2642%20-%20Bilgisayar%20Mühendisleri%20için%20Diferansiyel%20Denklemler/README.md) 📖
+* **Detaylı Bilgi:** [BLM2642 - Bilgisayar Mühendisleri için Diferansiyel Denklemler/README.md](BLM2642%20-%20Bilgisayar%20Mühendisleri%20için%20Diferansiyel%20Denklemler/Readme.md) 📖
 * **Video Açıklaması:** [Projenin Detaylı Video Anlatımı için Tıklayın](https://www.youtube.com/watch?v=s9lxLIq8H8g)
 
 ---
